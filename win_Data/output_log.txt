@@ -1,0 +1,108 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     3039 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.165 seconds
+Platform assembly: D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Storage\Documents\Courses\VR Course\ShootHoop\win_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.077244 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5a4c -> priority: 1 
+  Thread -> id: 141c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.709258 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.365128 ms (FindLiveObjects: 0.042715 ms CreateObjectMapping: 0.045933 ms MarkObjects: 0.251610 ms  DeleteObjects: 0.023405 ms)
+
+Parent transform
+Player (UnityEngine.Transform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Camera transform
+Main Camera (UnityEngine.Camera)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You scored. Your current score is 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.225285 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.678763 ms (FindLiveObjects: 0.043007 ms CreateObjectMapping: 0.043885 ms MarkObjects: 0.363957 ms  DeleteObjects: 0.226449 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.273846 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.145114 ms (FindLiveObjects: 0.014628 ms CreateObjectMapping: 0.011995 ms MarkObjects: 0.108251 ms  DeleteObjects: 0.009947 ms)
+
+Parent transform
+Player (UnityEngine.Transform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Camera transform
+Main Camera (UnityEngine.Camera)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
